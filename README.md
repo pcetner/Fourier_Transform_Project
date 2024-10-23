@@ -1,5 +1,9 @@
 # `Fourier Transform Project`
-![A visualization of a signal's frequency components, showing different peaks that represent the strength of specific frequencies over time](https://github.com/user-attachments/assets/499ac133-434c-4a65-8f2e-562b698d5aa7)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/499ac133-434c-4a65-8f2e-562b698d5aa7" alt="A visualization of a signal's frequency components, showing different peaks that represent the strength of specific frequencies over time" />
+A visualization of a signal's frequency components, showing different peaks that represent the strength of specific frequencies over time.
+</p>
 
 
 This is a school project on "Signal Analysis and Fourier Transformations" done in Octave, completed during my first semester at Monroe Community College.
