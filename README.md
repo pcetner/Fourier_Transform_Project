@@ -17,7 +17,7 @@ The inverse discrete Fourier transform is defined by the following formula:
 ```math
 x_n = \frac{1}{N}\sum_{k=0}^{N-1} X_k \cdot e^{i2pikn/N}
 ```
-While the discrete Fourier transform is incredibly beautiful at its core, it has a complexity of O(N^2), which makes evaluating large amounts of data extraordinarily slow. 
+While the discrete Fourier transform is incredibly beautiful at its core, it has a complexity of O(N²), which makes evaluating large amounts of data extraordinarily slow. 
 Fortunately, due to the periodic nature of sinusoids, this complexity can be reduced to O(NlogN) via an implementation of the fast Fourier transform.
 
 
