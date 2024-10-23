@@ -1,5 +1,6 @@
 # `Fourier Transform Project`
-![A visualization of frequency and strength of a function of time](https://github.com/user-attachments/assets/499ac133-434c-4a65-8f2e-562b698d5aa7)
+![A visualization of a signal's frequency components, showing different peaks that represent the strength of specific frequencies over time](https://github.com/user-attachments/assets/499ac133-434c-4a65-8f2e-562b698d5aa7)
+
 
 This is a school project on "Signal Analysis and Fourier Transformations" done in Octave, completed during my first semester at Monroe Community College.
 The purpose of the project was to code the discrete Fourier transform, its inverse, as well any type of fast Fourier transform.
