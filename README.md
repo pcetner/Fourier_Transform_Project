@@ -28,10 +28,10 @@ Fortunately, due to the periodic nature of sinusoids, this complexity can be red
 
 
 Additional elements of the project were graphing:
-	The results of the discrete Fourier transform
-	The results of the inverse discrete Fourier transform
-	The difference in computation time between the discrete and fast Fourier transform
-	A sliding window evaluation of a given signal.
+  - The results of the Discrete Fourier Transform (DFT)
+  - The results of the Inverse Discrete Fourier Transform (IDFT)
+  - The difference in computation time between the Discrete Fourier Transform (DFT) and the Fast Fourier Transform (FFT)
+  - A sliding window evaluation of a given signal
 
 
 ## References
@@ -53,3 +53,4 @@ Fast Fourier transform:
 
 - A more intuitive video describing the transform:
 https://www.youtube.com/watch?v=nmgFG7PUHfo&ab_channel=Veritasium
+
